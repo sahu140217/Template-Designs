@@ -9,12 +9,14 @@ body{
     justify-content: center;
     text-align: center;
     align-items: center;
-    background-image: url("https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGZvb2R8ZW58MHx8MHx8fDA%3D");
+    background-image: url("https://plus.unsplash.com/premium_photo-1678375722686-c7ea507c3003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2l0Y2hlbnxlbnwwfHwwfHx8MA%3D%3D");
+    
     background-attachment:scroll;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 .healthy{
+    font-size: large;
         height: 200px;
         width: 250px;
         background-color: rgb(216, 226, 226);
@@ -26,6 +28,7 @@ body{
 }
 
 .Ecology{
+    font-size: large;
         height: 200px;
         width: 250px;
         background-color: rgb(216, 226, 226);
@@ -36,6 +39,7 @@ body{
     }
 
 .Weight{
+    font-size: large;
         height: 200px;
         width: 250px;
         background-color: rgb(216, 226, 226);
@@ -46,6 +50,7 @@ body{
         }
 
 .Fats{
+    font-size: large;
         height: 200px;
         width: 250px;
         background-color: rgb(216, 226, 226);

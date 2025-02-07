@@ -15,38 +15,43 @@ body{
     background-size: 100% 100%;
 }
 .healthy{
-        height: 250px;
-        width: 300px;
+        height: 200px;
+        width: 250px;
         background-color: rgb(216, 226, 226);
         margin-top: 30px;
         margin-bottom: 30px;
         margin-left: 150%;
         padding: 20px;
+        border-radius: 30px;
 }
 
 .Ecology{
-        height: 250px;
-        width: 300px;
+        height: 200px;
+        width: 250px;
         background-color: rgb(216, 226, 226);
         margin-bottom: 30px;
         padding: 20px;
         margin-left: 150%;
+        border-radius: 30px;
     }
 
 .Weight{
-        height: 250px;
-        width: 300px;
+        height: 200px;
+        width: 250px;
         background-color: rgb(216, 226, 226);
         margin-bottom: 30px;
         padding: 20px;
         margin-left: 150%;
+        border-radius: 30px;
         }
 
 .Fats{
-        height: 250px;
-        width: 300px;
+        height: 200px;
+        width: 250px;
         background-color: rgb(216, 226, 226);
         margin-bottom: 30px;
         padding: 20px;
         margin-left: 150%;
+        border-radius: 30px;
         }
+
